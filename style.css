@@ -6,10 +6,10 @@
 .subscribe {
   background-color: #feeae9;
 }
-.Catagories > div > div > div img {
+.catagories > div > div > div img {
   width: 100px;
 }
-button.panda-btn-buy-now {
+.panda-btn-buy-now {
   background-image: linear-gradient(to bottom, #ff589b 0%, #ff136f 100%);
   color: #fff;
   border: none;
